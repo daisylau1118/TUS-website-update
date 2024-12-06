@@ -1,4 +1,4 @@
 # TUS-website-update
 
-Designed in Figma
-\nCurrently in process to be updated to teamupscience.com
+Designed in Figma\
+Currently in process to be updated to teamupscience.com
